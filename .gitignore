@@ -1,0 +1,26 @@
+# Секреты и конфигурация (КРИТИЧЕСКИ ВАЖНО)
+.env
+.env.local
+*.json.local
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Специфичные файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Локальные базы данных
+*.db
+*.sqlite3
