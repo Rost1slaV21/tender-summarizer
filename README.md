@@ -39,7 +39,7 @@ tender-summarizer/
 ### 1. Клонирование репозитория и подготовка окружения
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Rost1slaV21/tender-summarizer.git
 cd tender-summarizer
 
 python -m venv venv
